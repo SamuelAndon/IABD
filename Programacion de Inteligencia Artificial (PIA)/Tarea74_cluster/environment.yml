@@ -1,0 +1,13 @@
+name: ddp
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch 
+  - pandas
+  - jupyter
+  - matplotlib
+  - tensorboard
+  - torchmetrics
